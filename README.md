@@ -2,8 +2,8 @@
     <img alt="NLW-2.0" title="NLW-2.0" src=".github/logo.svg" width="220px" />
 </h1>
 
-<p style="text-align: center;">
-    :construction: __In progress__
+<p align="center">
+    :construction: <strong>In progress</strong>
 </p>
 
 ## What's Next Level Week?
